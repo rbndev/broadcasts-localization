@@ -51,7 +51,7 @@
 
 "ALERT_OK" = "Acceptar";
 "ALERT_ADD" = "Afegir";
-"ALERT_CANCEL" = "Cancel";
+"ALERT_CANCEL" = "Cancel·lar";
 "ALERT_DELETE" = "eliminar";
 
 "ADD_STATION_WINDOW_TITLE" = "Afegir nova emissora";
@@ -153,8 +153,8 @@
 "WATCH_LIBRARY_SYNC_IN_PROGRESS" = "Sincronitzant…";
 
 "ALERT_IMPORT" = "Importa";
-"IMPORT_TITLE" = "¿Importa \"%@\"?";
-"IMPORT_BODY" = "Aquesta col·lecció compartida conté% ld emissores.";
+"IMPORT_TITLE" = "Importa \"%@\"?";
+"IMPORT_BODY" = "Aquesta col·lecció compartida conté %ld emissores.";
 
 "MOVE_DIALOG_TITLE" = "Moure \"%@\"";
 "MOVE_DIALOG_BODY" = "Trieu una col·lecció a on moure aquesta emissora.";
